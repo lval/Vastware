@@ -1,0 +1,7 @@
+/* TEAM */
+    Full-Stack Development & Design: Luis Valentin
+    Site: http://www.lvalentin.com/
+    From: Ponce, PR
+
+	Content: Victor Torres
+	From: Orlando, FL
