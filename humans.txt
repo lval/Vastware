@@ -1,7 +1,9 @@
 /* TEAM */
-    Full-Stack Development & Design: Luis Valentin
+    Name: Luis Valentin
+    Org: Vastware, LLC
+    Location: Ponce, PR
     Site: http://www.lvalentin.com/
-    From: Ponce, PR
 
-    Content: Victor Torres
-    From: Orlando, FL
+    Name: Victor Torres
+    Org: Vastware, LLC
+    Location: Orlando, FL
